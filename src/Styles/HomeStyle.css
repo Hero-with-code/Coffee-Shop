@@ -24,6 +24,15 @@
     color: white;
     letter-spacing: 1px;
 }
+
+.home_section1 li{
+    background-color: aqua;
+}
+.home_section1 li i{
+    background-color: aqua;
+    font-size: 19px;
+}
+
 .home_section1 .order_now{
     width: 250px;
     margin-right: 30px;
